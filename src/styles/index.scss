@@ -1,0 +1,4 @@
+/* Remove 'Edit this page on GitHub' link */
+main > .bx--grid > div:last-of-type {
+    display: none;
+}
