@@ -4,7 +4,7 @@ module.exports = {
     description: 'IBM TechXchange 2024',
     keywords: 'gatsby,theme,carbon',
   },
-  pathPrefix: `/techxchange2024-lab2205`,
+  pathPrefix: `/techxchange2024-lab1596`,
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
@@ -22,7 +22,7 @@ module.exports = {
       resolve: 'gatsby-theme-carbon',
       options: {
         repository: {
-          baseUrl: 'https://github.com/IBM/techxchange2024-lab2205',
+          baseUrl: 'https://github.com/IBM/techxchange2024-lab1596',
         },
         isSwitcherEnabled: false,
         titleType: 'append',
